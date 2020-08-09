@@ -1,0 +1,35 @@
+030070035182
+
+
+
+01010100000012
+
+{
+	"comentario":"",
+	"concepto":"PAGO DE PRÉSTAMO A TERCERO [CONSUMO-CONSUMO  RAPICREDIT  BANCOVI]",
+	"cuentadestino":"030070035182",
+	"cuentaorigen":"07010100001972",
+	"descripcion":"PAGO DE PRÉSTAMO A TERCERO [CONSUMO-CONSUMO  RAPICREDIT  BANCOVI]",
+	"isPagoAnticipado":"N",
+	"monto":1.0,
+	"opt":"278698",
+	"origenFondos":1,
+	"origenTransaccion":"2",
+	"relacionFamiliar":1,
+	"tipodestino":"4"
+}
+
+{
+  "comentario": "string",
+  "concepto": "string",
+  "cuentadestino": "string",
+  "cuentaorigen": "string",
+  "descripcion": "string",
+  "isPagoAnticipado": "string",
+  "monto": 0,
+  "opt": "string",
+  "origenFondos": 0,
+  "origenTransaccion": "string",
+  "relacionFamiliar": 0,
+  "tipodestino": "string"
+}
