@@ -1,0 +1,31 @@
+:root{
+    --left-color: #913BFF;
+    --right-color: #E146FB;
+    --white: #fff;
+}
+
+.header-bg{
+    z-index: 99;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgb(145,59,255);
+    background: linear-gradient(90deg, rgba(145,59,255,1) 0%, rgba(145,59,255,1) 35%, rgba(225,70,251,1) 100%);
+}
+
+.avatar{
+    border: solid 2px #fff;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    
+}
+.avatar-title{
+    color: #fff;
+    font-style: bold;
+}
+.avatar-subtitle{
+    color: #fff;
+    font-size: 12px;
+}
