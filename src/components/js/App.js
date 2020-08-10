@@ -52,7 +52,7 @@ function App() {
               </div>
             </div>
             <div className="row">
-              <div className="col-8 d-flex justify-content-center align-items-center">
+              <div className="col-8">
                 <div className="notice-guess">
                   <div class="row">
                     <div className="col-2">

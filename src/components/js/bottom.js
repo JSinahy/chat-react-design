@@ -12,7 +12,7 @@ export default function Bottom(){
                         <div className="col-12">
                             <div className="row">
                                 <div className="col-10 d-flex justify-content-center">
-                                    <input type="text" className="input-control" placeholder="Type a message..." />
+                                    <input type="text" className="input-control" placeholder="Type a message..." name="message" />
                                 </div>
                                 <div className="col-2 d-flex justify-content-end">
                                     <div className="send "></div>

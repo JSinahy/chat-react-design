@@ -10,8 +10,8 @@ export default function Header() {
         <nav id="sidebar" className="header-bg" >
             <div className="container">
                 <div className="row align-items-center" style={{height: "80px"}}>
-                    <div className="col d-flex">
-                        <img src={leftArrow} width="24px" height="24px" alt="left arrow" />
+                    <div className="col-2 d-flex">
+                        <img src={leftArrow} width="24" height="24" alt="left arrow" />
                     </div>
                     <div className="col-8">
                         <div className="row" style={{height: "80px"}}>
@@ -37,8 +37,8 @@ export default function Header() {
                         </div>
                         
                     </div>
-                    <div className="col">
-                    <img src={burger} width="24px" height="24px" />
+                    <div className="col-2 d-flex align-items-end justify-content-end">
+                        <img src={burger} width="24" height="24" alt="burger menu" />
                     </div>
                 </div>
             </div>
