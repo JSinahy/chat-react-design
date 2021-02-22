@@ -1,3 +1,8 @@
+# Chat Design ReacTJS
+Aplicación solo de challenge de la página FrontendMentor, buena práctiva aquí se los dejo.
+
+![Ventana Principal](https://myimages.proacit.com.mx/i.php?/upload/2021/02/22/20210222205415-7404a89d-la.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
