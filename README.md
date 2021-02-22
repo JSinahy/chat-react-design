@@ -1,4 +1,4 @@
-# Chat Design ReacTJS
+# Chat Design ReactJS
 Aplicación solo de challenge de la página FrontendMentor, buena práctiva aquí se los dejo.
 
 ![Ventana Principal](https://myimages.proacit.com.mx/i.php?/upload/2021/02/22/20210222205415-7404a89d-la.jpg)
